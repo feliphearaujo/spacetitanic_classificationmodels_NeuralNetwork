@@ -1,1 +1,1 @@
-link ompetition: https://www.kaggle.com/c/spaceship-titanic
+link competition: https://www.kaggle.com/c/spaceship-titanic
